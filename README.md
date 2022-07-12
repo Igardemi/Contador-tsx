@@ -1,3 +1,4 @@
 # Contador en React Native tsx
 
-![image](https://user-images.githubusercontent.com/74794797/178479598-7973b355-c241-436d-b960-95a4f68982ea.png)
+
+![Screenshot_1657625249](https://user-images.githubusercontent.com/74794797/178479675-ee154c5b-ebc1-49bb-b142-a9a37ea1a26d.png)
